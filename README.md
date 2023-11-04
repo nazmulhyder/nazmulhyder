@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working as a Software Engineer at IDLC Finance Limited.
 
-- 🌱 C#, ASP.NET Core is my prefered stack.
+- 🌱 C#, ASP.NET Core is my preferred stack.
 
 - 💬 Ask me about **C#, ASP.NET CORE, ANGULAR, SQL Server**
 
