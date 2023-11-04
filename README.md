@@ -2,9 +2,9 @@
 <h3 align="center">I am a full stack developer.</h3>
 <img align="right" alt="coding" width="400" src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif">
 
-- 🔭 I’m currently working on **Back Office Management**
+- 🔭 I’m currently working as a Software Engineer at IDLC Finance Limited.
 
-- 🌱 I’m currently learning **REACT, DOCKER**
+- 🌱 C#, ASP.NET Core is my prefered stack.
 
 - 💬 Ask me about **C#, ASP.NET CORE, ANGULAR, SQL Server**
 
