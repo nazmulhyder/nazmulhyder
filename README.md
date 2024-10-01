@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Nazmul Hyder</h1>
-<h3 align="center">I am a full stack developer.</h3>
+<h3 align="center">I am a Full stack developer.</h3>
 <img align="right" alt="coding" width="400" src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif">
 
-- 🔭 I’m currently working as a Software Engineer at IDLC Finance Limited.
+- 🔭 Passionate C# ASP.NET Developer with over 5 years of experience designing, developing, and maintaining complex software applications. Proficient in C#, ASP.NET Framework, SQL Server, and Angular 10+, with strong expertise in building scalable, secure, high-performance web applications.
 
-- 🌱 C#, ASP.NET Core is my preferred stack.
+- 🌱 C#, .NET framework is my preferred stack.
 
 - 💬 Ask me about **C#, ASP.NET CORE, ANGULAR, SQL Server**
 
-- 📫 How to reach me **nazmul.dev240219@gmail.com**
+- 📫 How to reach me **nazmulhyder2308@gmail.com**
 
 - 📄 Know about my experiences [https://nazmulhyder.github.io/](https://nazmulhyder.github.io/)
 
