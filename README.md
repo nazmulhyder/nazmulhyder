@@ -2,15 +2,13 @@
 <h3 align="center">I am a Full stack developer.</h3>
 <img align="right" alt="coding" width="400" src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif">
 
-- 🔭 Passionate C# ASP.NET Developer with over 5 years of experience designing, developing, and maintaining complex software applications. Proficient in C#, ASP.NET Framework, SQL Server, and Angular 10+, with strong expertise in building scalable, secure, high-performance web applications.
+- 🔭 A highly experienced Software Engineer with 5+ years in backend development, specializing in C#, ASP.NET, and Angular. I have a strong background in building scalable web applications using SOLID principles, clean code, and Agile methodologies. My expertise includes developing RESTful APIs, using SQL Server, and applying TDD practices. I am now seeking a .NET Developer role in London, where I can apply my technical skills, collaborate with dynamic teams, and contribute to impactful projects.
 
 - 🌱 C#, .NET framework is my preferred stack.
 
-- 💬 Ask me about **C#, ASP.NET CORE, ANGULAR, SQL Server**
+- 💬 Ask me about **C#, ASP.NET CORE, ANGULAR 10+, SQL Server**
 
 - 📫 How to reach me **nazmulhyder2308@gmail.com**
-
-- 📄 Know about my experiences [https://nazmulhyder.github.io/](https://nazmulhyder.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
