@@ -6,7 +6,7 @@
 
 - 🌱 C#, .NET framework is my preferred stack.
 
-- 💬 Ask me about **C#, ASP.NET CORE, ANGULAR 10+, SQL Server**
+- 💬 Ask me about **C#, ASP.NET CORE, TypeScript, ANGULAR 10+, SQL Server, ADO.NET, Dapper ORM, Entity Framework, Web API, TDD**
 
 - 📫 How to reach me **nazmulhyder2308@gmail.com**
 
