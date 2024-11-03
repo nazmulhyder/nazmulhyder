@@ -2,11 +2,10 @@
 <h3 align="center">I am a Full stack developer.</h3>
 <img align="right" alt="coding" width="400" src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif">
 
-- 🔭 A highly experienced Software Engineer with 5+ years in backend development, specializing in C#, ASP.NET, and Angular. I have a strong background in building scalable web applications using SOLID principles, clean code, and Agile methodologies. My expertise includes developing RESTful APIs, using SQL Server, and applying TDD practices. I am now seeking a .NET Developer role in London, where I can apply my technical skills, collaborate with dynamic teams, and contribute to impactful projects.
+- 🔭 Software Engineer with over 5 years of experience in C#, ASP.NET MVC, ASP.NET Core, and Angular, specialising in delivering secure, scalable web applications in Fintech, Logistics, and GovTech. Demonstrated success in optimising SQL performance and managing high user traffic with minimal latency. Skilled in TDD, OOP, and SOLID principles, with a focus on high-quality, reliable solutions. Actively seeking to drive innovation and contribute to impactful projects within a collaborative, Agile team environment.
+- I hold a Bachelor’s degree in Computer Science and Engineering from United International University, Bangladesh, and I’m fully committed to continuous learning and contributing to innovative projects.
 
-- 🌱 C#, .NET framework is my preferred stack.
-
-- 💬 Ask me about **C#, ASP.NET CORE, TypeScript, ANGULAR 10+, SQL Server, ADO.NET, Dapper ORM, Entity Framework, Web API, TDD**
+- 💬 Ask me about **C#, ASP.NET CORE, TypeScript, ANGULAR, SQL Server, ADO.NET, Dapper ORM, Entity Framework, Web API, TDD**
 
 - 📫 How to reach me **nazmulhyder2308@gmail.com**
 
