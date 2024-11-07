@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nazmul Hyder</h1>
 <h3 align="center">I am a Full stack developer.</h3>
-<img align="right" alt="coding" width="100%" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
-
 - 🔭 Software Engineer with over 5 years of experience in C#, .NET technologies, and Angular, Passionate about building scalable, secure web applications in FinTech and GovTech, and Manufacturing space. Demonstrated success in optimising SQL performance and managing 
    high user traffic with minimal latency. Skilled in TDD, OOP, and SOLID principles, with a focus on high-quality, reliable solutions. Actively seeking to drive innovation and contribute to impactful projects within a collaborative, Agile team environment.
 - I hold a Bachelor’s degree in Computer Science and Engineering from United International University, Bangladesh, and I’m fully committed to continuous learning and contributing to innovative projects.
