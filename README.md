@@ -2,7 +2,8 @@
 <h3 align="center">I am a Full stack developer.</h3>
 <img align="right" alt="coding" width="400" src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif">
 
-- 🔭 Software Engineer with over 5 years of experience in C#, ASP.NET MVC, ASP.NET Core, and Angular, specialising in delivering secure, scalable web applications in Fintech, Logistics, and GovTech. Demonstrated success in optimising SQL performance and managing high user traffic with minimal latency. Skilled in TDD, OOP, and SOLID principles, with a focus on high-quality, reliable solutions. Actively seeking to drive innovation and contribute to impactful projects within a collaborative, Agile team environment.
+- 🔭 Software Engineer with over 5 years of experience in C#, .NET technologies, and Angular, Passionate about building scalable, secure web applications in FinTech and GovTech, and Manufacturing space. Demonstrated success in optimising SQL performance and managing 
+   high user traffic with minimal latency. Skilled in TDD, OOP, and SOLID principles, with a focus on high-quality, reliable solutions. Actively seeking to drive innovation and contribute to impactful projects within a collaborative, Agile team environment.
 - I hold a Bachelor’s degree in Computer Science and Engineering from United International University, Bangladesh, and I’m fully committed to continuous learning and contributing to innovative projects.
 
 - 💬 Ask me about **C#, ASP.NET CORE, TypeScript, ANGULAR, SQL Server, ADO.NET, Dapper ORM, Entity Framework, Web API, TDD**
