@@ -8,11 +8,11 @@
 
 ## 👨‍💻 **About Me**
 
-I am a passionate **Software Engineer** with over **5 years of experience** in building scalable, high-performance applications, primarily in **FinTech**, **GovTech**, and **Manufacturing**. My expertise spans **backend development** with **C#** and **ASP.NET**, as well as creating dynamic, user-centric solutions with **Angular**. I thrive in **Agile environments**, where I leverage **SOLID principles** and **TDD** to deliver efficient, maintainable code. I am constantly learning and evolving, driven by a commitment to building impactful software that solves real-world problems and enhances user experience.
+I am a passionate **.NET Software Engineer** with over **5 years of experience** in building scalable, high-performance applications, primarily in **FinTech**, **GovTech**, and **Manufacturing**. My expertise spans **backend development** with **C#** and **ASP.NET**, as well as creating dynamic, user-centric solutions with **Angular**. I thrive in **Agile environments**, where I leverage **SOLID principles** and **TDD** to deliver efficient, maintainable code. I am constantly learning and evolving, driven by a commitment to building impactful software that solves real-world problems and enhances user experience.
 
 ---
 
-## 🛠️ **Technical Skills**
+## 🛠️ **Core Competencies**
 
 ### **Languages**  
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
@@ -59,3 +59,14 @@ I am a passionate **Software Engineer** with over **5 years of experience** in b
 ## 🎯 **Let’s Connect!**
 
 Feel free to reach out via [Email](mailto:nazmulhyder2308@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/nazmulhyder00/).
+
+---
+# My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nazmulhyder&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_rank=true&theme=radical" width="33%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmulhyder&layout=compact&theme=radical" width="33%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nazmulhyder&theme=radical" width="33%" />
+</p>
+
+
