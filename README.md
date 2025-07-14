@@ -2,7 +2,7 @@
 
 📍 **Based in London, UK**  
 📧 [nazmulhyder2308@gmail.com](mailto:nazmulhyder2308@gmail.com)  
-🌐 [Portfolio](https://nazmulhyder.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/nazmulhyder00/)  
+🌐 [Portfolio](https://nazmulhyder.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/nhyder/)  
 
 ---
 
@@ -58,7 +58,7 @@ I am a passionate **.NET Software Engineer** with over **5 years of experience**
 
 ## 🎯 **Let’s Connect!**
 
-Feel free to reach out via [Email](mailto:nazmulhyder2308@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/nazmulhyder00/).
+Feel free to reach out via [Email](mailto:nazmulhyder2308@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/nhyder/).
 
 ---
 # My GitHub Stats
