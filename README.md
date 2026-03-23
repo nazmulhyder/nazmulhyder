@@ -1,81 +1,48 @@
-# Nazmul Hyder  
+# 👋 Hi, I'm Nazmul Hyder
 
-📍 London, UK (Open to relocate)  
-📧 [nazmul.hyder.uk@gmail.com](mailto:nazmul.hyder.uk@gmail.com)  
-🔗 [LinkedIn](https://linkedin.com/in/nhyder) · [Portfolio](https://nazmulhyder.vercel.app/)  
+.NET Engineer based in London, focused on building scalable backend systems and modern cloud applications.
 
 ---
 
-## Profile  
+## 🚀 Currently Building
 
-Backend Software Engineer with 5+ years’ experience in **FinTech** and **GovTech**. Skilled in **C#, ASP.NET Core, SQL Server, and Azure**, with a track record of delivering high-performance platforms at scale.  
+### 🌍 Charipay – Charity Management Platform
+A full-stack platform for managing campaigns, donations, and user roles.
 
-- Reduced tax filing times by **80%** with a nationwide e-filing system  
-- Increased trading throughput by **40%** by modernising capital market backend  
-- Automated compliance reporting across **100K+ monthly transactions**  
-- Strong focus on **scalability, security, and regulatory compliance**  
+**Tech Stack:** ASP.NET Core Web API, Angular (v20+), Azure SQL, JWT, Blob Storage  
 
----
+- RESTful APIs for campaign lifecycle and donation workflows  
+- Role-based authentication (Admin, Donor, Volunteer)  
+- Azure deployment (App Service + SQL)  
+- Media handling with Azure Blob Storage  
 
-## Core Skills  
+🔗 Swagger: [https://charipay-web-api.azurewebsites.net/swagger/index.html](https://charipay-web-api.azurewebsites.net/swagger/index.html)
 
-- **Backend & Database**: C#, ASP.NET Core, Entity Framework Core, SQL Server, LINQ, Dapper  
-- **Frontend & UI**: Angular (10+), TypeScript, JavaScript, Bootstrap, HTML, CSS  
-- **Cloud & DevOps**: Microsoft Azure, CI/CD, Azure DevOps, GitHub, GitLab  
-- **Practices**: Clean Architecture, CQRS, SOLID, OOP, TDD, Agile/Scrum  
-- **Testing & Tools**: xUnit, Postman, Visual Studio, VS Code, Git  
 
 ---
 
-## Experience  
+## 🛠️ Tech Stack
 
-**Software Engineer – Capital Market**  
-*IDLC Finance PLC · Dhaka, Bangladesh*  
-*Jul 2022 – Aug 2024*  
-- Modernised backend systems → **+40% throughput** in trade processing  
-- Optimised high-volume trading data → **25% faster insights**  
-- Built client audit log system → **50% faster dispute resolution**  
-- Automated compliance reporting across **100K+ transactions/month**  
-
-**Software Developer**  
-*Synesis IT PLC · Dhaka, Bangladesh*  
-*Oct 2020 – Jun 2022*  
-- Designed and developed **e-Return**, a digital tax-filing platform used by **1.5M+ taxpayers**  
-- Reduced processing times by **80%** and taxpayer errors by **30%**  
-- Ensured strong security and full compliance with national regulations  
-
-**Software Developer**  
-*Infocrat Solutions Limited · Dhaka, Bangladesh*  
-*Feb 2019 – Sep 2020*  
-- Built ERP systems for textile operations → **30% faster workflows**  
-- Supported multi-site rollouts ensuring consistent data flow  
+**Backend:** .NET 8, C#, ASP.NET Core Web API, SQL Server  
+**Frontend:** Angular (v20+), TypeScript  
+**Cloud:** Azure (App Service, SQL, Blob Storage)  
+**Practices:** Clean Architecture, CQRS  
 
 ---
 
-## Education  
+## 📈 Background (Brief)
 
-**BSc in Computer Science and Engineering**  
-United International University – Dhaka, Bangladesh (2018)  
-*CGPA: 3.40/4.00*  
-
----
-
-## Certifications  
-
-- REST APIs in .NET – Dometrain (2025)  
-- Developing CI/CD Solutions with Azure DevOps – LinkedIn Learning (2024)  
+- 5+ years in FinTech and GovTech  
+- Built systems used by 1.5M+ users  
+- Improved trading performance by 40%  
 
 ---
 
-## Currently  
+## 📫 Connect
 
-- Exploring **cloud-native .NET solutions** with Azure  
-- Enhancing **CI/CD pipelines and DevOps automation**  
-- Contributing to **open-source .NET projects**  
+- LinkedIn: https://linkedin.com/in/nhyder  
+- Email: nazmul.hyder.uk@gmail.com  
 
 ---
 
-## GitHub Snapshot  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nhyder&show_icons=true&theme=default&hide_title=true&count_private=true" alt="Nazmu_
+⭐ Actively seeking .NET / Backend / Full-Stack roles in the UK
