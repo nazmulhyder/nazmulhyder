@@ -16,7 +16,8 @@ A full-stack platform for managing campaigns, donations, and user roles.
 - Azure deployment (App Service + SQL)  
 - Media handling with Azure Blob Storage  
 
-🔗 Swagger: [https://charipay-web-api.azurewebsites.net/swagger/index.html](https://charipay-web-api.azurewebsites.net/swagger/index.html)
+- 🔗 Swagger: [https://charipay-web-api.azurewebsites.net/swagger/index.html](https://charipay-web-api.azurewebsites.net/swagger/index.html)
+- 🌎 Web: [https://charipay.azurewebsites.net/](https://charipay.azurewebsites.net/)
 
 
 ---
