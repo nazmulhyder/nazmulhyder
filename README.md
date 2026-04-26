@@ -9,7 +9,7 @@
 ### 🌍 Charipay – Charity Management Platform
 A full-stack platform for managing campaigns, donations, and user roles.
 
-**Tech Stack:** ASP.NET Core Web API, Angular (v20+), Azure SQL, JWT, Blob Storage  
+**Tech Stack:** ASP.NET Core Web API, Angular 20, Azure SQL, JWT, Blob Storage  
 
 - RESTful APIs for campaign lifecycle and donation workflows  
 - Role-based authentication (Admin, Donor, Volunteer)  
@@ -25,7 +25,7 @@ A full-stack platform for managing campaigns, donations, and user roles.
 ## 🛠️ Tech Stack
 
 **Backend:** .NET 8, C#, ASP.NET Core Web API, SQL Server  
-**Frontend:** Angular (v20+), TypeScript  
+**Frontend:** Angular 20, TypeScript  
 **Cloud:** Azure (App Service, SQL, Blob Storage)  
 **Practices:** Clean Architecture, CQRS  
 
